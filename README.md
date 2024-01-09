@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Krystian Burbano-Marek
 ==============================================================================================================================================
 
-I'm a Self-proclaimed Game Developer
+I'm a self-proclaimed Game Developer
 ------------------------------------
 
 * 🌍  I'm based in Rzeszów, Poland
 * ✉️  You can contact me at [krystianburbano@gmail.com](mailto:krystianburbano@gmail.com)
 * 🚀  I'm currently working on [NoNameGame](http://github.com/kris313104/NoNameGame)
 * 🧠  I'm learning Unreal Engine 5, HD-2D game development
-* 🤝  I'm open to collaborating on interesting porjects related game development
+* 🤝  I'm open to collaborating on interesting porojects related to game development
 * ⚡  I love coffee
 
 ### Skills
